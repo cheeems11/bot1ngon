@@ -1,0 +1,1 @@
+npm i user-agents && npm i colors && npm i randomstring && npm i request && npm i fake-useragent && npm i cluster && npm i crypto && npm i gradient-string && npm i header-generator && npm install header-generator 77 npm install request
